@@ -1,9 +1,23 @@
 #name{
   margin-top: 70px;
-  margin-left: 30px;
+  margin-left: 40px;
+}
+
+#description{
+  margin-left: 40px;
 }
 
 #image{
-  margin-left: 100px;
+  margin-left: 90px;
   margin-top: 20px;
+  border:2px solid #fff;
+  box-shadow: 10px 10px 5px #ccc;
+      -moz-box-shadow: 10px 10px 5px #ccc;
+      -webkit-box-shadow: 10px 10px 5px #ccc;
+      -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+#projects{
+  margin: 50px;
+  text-align: center;
 }
