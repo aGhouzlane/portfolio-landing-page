@@ -20,6 +20,8 @@
 #projects{
   margin: 50px;
   text-align: center;
+  text-shadow: 2px 2px gray;
+  color: rgb(231, 230, 230);
 }
 
  .hover-color:hover{
