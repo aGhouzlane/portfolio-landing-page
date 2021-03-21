@@ -1,14 +1,14 @@
 #name{
   margin-top: 20px;
-  margin-left: 45px;
+  margin-left: 100px;
 }
 
 #description{
-  margin-left: 45px;
+  margin-left: 100px;
 }
 
 #image{
-  margin-left: 40px;
+  margin-left: 130px;
   margin-top: 20px;
   border:2px solid #fff;
   box-shadow: 10px 10px 5px #ccc;
@@ -21,3 +21,12 @@
   margin: 50px;
   text-align: center;
 }
+
+ .hover-color:hover {
+  background-color: rgb(212, 226, 231);
+  border:2px solid #fff;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
+ }
