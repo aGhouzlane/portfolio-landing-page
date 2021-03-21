@@ -22,7 +22,7 @@
   text-align: center;
 }
 
- .hover-color:hover {
+ .hover-color {
   background-color: rgb(212, 226, 231);
   border:2px solid #fff;
   box-shadow: 10px 10px 5px #ccc;
