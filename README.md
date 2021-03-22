@@ -6,7 +6,7 @@
 
 ## Link to Github pages
 
-[a link](https://aghouzlane.github.io/portfolio-landing-page/)
+[portfolio](https://aghouzlane.github.io/portfolio-landing-page/)
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@
 
 ## Setup/Installation Requirements
 
-1. Clone git repository [Click here](git@github.com:aGhouzlane/portfolio-landing-page.git)
+1. Clone git repository [Click here](https://github.com/aGhouzlane/portfolio-landing-page)
 2. Find index.html file
 3. Open with your favorite browser by double clicking, or right-click, open with...
 
