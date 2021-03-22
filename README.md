@@ -30,4 +30,4 @@
 
 ## Contact Information
 
-[email me](mailto:ahmedghouzlane@gmail.com)
+[Email me](mailto:ahmedghouzlane@gmail.com)
