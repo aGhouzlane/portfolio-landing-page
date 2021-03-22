@@ -4,6 +4,10 @@
 
 #### By Ahmed Ghouzlane
 
+## Link to Github pages
+
+[a link](https://aghouzlane.github.io/portfolio-landing-page/)
+
 ## Technologies Used
 
 * HTML
