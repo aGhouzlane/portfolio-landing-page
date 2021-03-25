@@ -46,3 +46,18 @@
   -webkit-box-shadow: 10px 10px 5px #ccc;
   -khtml-box-shadow: 10px 10px 5px #ccc;
  }
+
+ .contact{
+   padding-left: 300px;
+ }
+
+ .label{
+   padding-left: 23px;
+ }
+
+ #contResou{
+   padding: 50px;
+  text-align: center;
+  text-shadow: 2px 2px gray;
+  color: white;
+ }
